@@ -4,8 +4,7 @@
 
 # Portfolio Project
 
-* Creating my first Portfolio with help from Figma's templates.
-* Now live! (Courtesy of GitHub Pages) https://fdezcaminero.github.io/figmaPortfolio1/
+* Creating our Portfolio Project using Bootstrap.
 
 ## Built With
 
